@@ -23,7 +23,7 @@ return (
 
   <div>Actualidad</div>
   <h1>{Algo_de_mi}</h1>
-  <h1>Tescnologia y Habilidades</h1>
+  <h1>Tecnologica y Habilidades</h1>
   
 <button className= "boton"onClick={mostrarTodo}>Mostrar mas</button>
 { mostrar && Tecnologia_y_Habilidades && (
